@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CarRace_R_S.unity
+  isLoaded: 1
+  isActive: 1
